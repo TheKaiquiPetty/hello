@@ -75,14 +75,7 @@
   
   ## 
   
-  
-   <div style="display: flex;" >
-   
  
 
-
-     
-   <img align="right"  src="programming" alt="" height="70" width="70"> 
- </div>
 Rumo ao avanço tecnológico!
    
