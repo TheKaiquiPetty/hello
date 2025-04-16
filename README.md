@@ -73,9 +73,3 @@
   </div>
  
   
-  ## 
-  
- 
-
-Rumo ao avanço tecnológico!
-   
